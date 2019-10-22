@@ -1,0 +1,1 @@
+(aa|bb)* ab a aa bb aabbaa aabaa
